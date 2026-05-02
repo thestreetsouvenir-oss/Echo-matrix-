@@ -1,0 +1,9 @@
+openai
+python-dotenv
+aiohttp
+sentence-transformers
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+pyyaml
