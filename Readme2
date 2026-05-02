@@ -1,0 +1,6 @@
+Echo Matrix is a sovereign, self‑hosted AI memory kernel designed for long‑horizon reasoning, 
+agent orchestration, and privacy‑first workflows. This repository exposes the safe public 
+surface of the system while the full engine undergoes staged, hardened release. Echo Matrix 
+prioritizes control, composability, and a defensive architecture that assumes adversarial 
+inputs and long‑running sessions. Additional documentation, demos, and extensibility hooks 
+will be released incrementally as the public interface matures.
